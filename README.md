@@ -3,13 +3,13 @@
 Here is the pinout of the FTDI FT2232H module [UM-FT2232H](https://de.elv.com/elv-highspeed-mini-usb-modul-um-ft2232h-komplettbausatz-099347)
 distributed by [ELV Germany](https://de.elv.com/):
 
-![UM-FT2232H PNG](./UM-FT2232H.png)
+![UM-FT2232H PNG](./images/UM-FT2232H.png)
 
 The pinout is available in various formats:
 
-- [UM-FT2232H.pdf](./UM-FT2232H.pdf)
-- [UM-FT2232H.png](./UM-FT2232H.png)
-- [UM-FT2232H.svg](./UM-FT2232H.svg)
+- [UM-FT2232H.pdf](./images/UM-FT2232H.pdf)
+- [UM-FT2232H.png](./images/UM-FT2232H.png)
+- [UM-FT2232H.svg](./images/UM-FT2232H.svg)
 
 ## Pinout Connector ST1 and ST2
 
@@ -47,4 +47,4 @@ Rx LED BC3 -  9   10 - BC2
 
 ## License
 
-UM-FT2232H Pinout (c) 2022 by Marius Greuel is licensed under CC BY-SA 4.0.
+UM-FT2232H Pinout © 2022 by Marius Greuel.
